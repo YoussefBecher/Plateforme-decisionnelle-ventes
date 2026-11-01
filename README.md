@@ -4,6 +4,7 @@ Système complet d'aide à la décision : un pipeline **ETL en Python**, un **en
 
 **Technologies** : Python (pandas, scikit-learn, statsmodels), SQL / PostgreSQL, Power BI (DAX), HTML / JavaScript.
 
+**Voir le tableau de bord en ligne** : https://youssefbecher.github.io/Plateforme-decisionnelle-ventes/
 ![Tableau de bord](images/dashboard.png)
 
 ## Indicateurs suivis
